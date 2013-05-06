@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<!--
+	Miniport 2.0 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Responsabilidad Social Universitaria</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" />
+		<!--[if lte IE 8]><script src="/static/js/html5shiv.js"></script><![endif]-->
+		<script src="/static/js/5grid.min.js">{preset:'legacy',prefix:'/static/css/style',breakpoints:{'desktop':{grid:{gutter:4}}}}</script>
+		<noscript><link rel="stylesheet" href="/static/css/5grid-noscript.min.css" /><link rel="stylesheet" href="/static/css/style.css" /><link rel="stylesheet" href="/static/css/style-desktop.css" /></noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="/static/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="/static/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 7]><link rel="stylesheet" href="/static/css/ie7.css" /><![endif]-->
+		<script src="/static/js/jquery-1.9.1.min.js"></script>
+		<script src="/static/js/init.js"></script>
+	</head>
+	<body>
+
+		<!-- Nav -->
+			<nav id="nav">
+				<ul>
+					<li><a href="#top">Hola</a></li>
+          <li><a href="#que">Qué es?</a></li>
+					<li><a href="#participar">Participá</a></li>
+					<li><a href="#contact">Contacto</a></li>
+				</ul>
+			</nav>
+
+		<!-- Home -->
+			<div class="wrapper wrapper-style1 wrapper-first">
+				<article class="5grid 5grid-container" id="top">
+					<div class="row">
+						<div class="4u">
+							<span class="me image image-full"><img src="images/raise-hand.jpg" alt="" /></span>
+						</div>
+						<div class="8u">
+							<header>
+								<h1>Responsabilidad <strong>Social</strong></h1>
+                <h2>Universitaria</h2>
+							</header>
+							<p>Pensaste alguna vez cuantas horas de las que pasamos en la facultad dedicamos a ampliar nuestra conciencia social? A mirarnos como sociedad y preguntarnos que podemos hacer desde nuestro lugar  como estudiantes y futuros profesionales para mejorarla?</p>
+							<a href="#participar" class="button button-big">PARTICIPAR</a>
+						</div>
+					</div>
+				</article>
+			</div>
+
+    <!-- que -->
+			<div class="wrapper wrapper-style2">
+				<article id="que">
+					<header>
+						<h2>Qué es?</h2>
+						<span>Se trata de una actividad para hacer en las universidades que consta de dos momentos. En el primero vamos a hacer un juego para mirarnos como sociedad. Y en el segundo a pensar ideas sobre qué podemos hacer desde nuestro lugar para mejorarla.</span>
+					</header>
+					<div>
+            <iframe src="http://player.vimeo.com/video/63458954?byline=0&amp;portrait=0" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+					</div>
+					<footer>
+						<p>Sugerimos solo 2 horas para hacerla en un grupo de hasta 30 personas.</p>
+					</footer>
+				</article>
+			</div>
+      
+		<!-- girar -->
+			<div class="wrapper wrapper-style2">
+				<article id="participar">
+					<header>
+						<h2>Participá</h2>
+						<span>Querés colaborar haciendo que este movimiento empieze a girar? Te damos algunas ideas para hacerlo.</span>
+					</header>
+					<div class="5grid 5grid-container">
+						<div class="row">
+							<div class="8u">
+								<section class="box box-style1">
+									<span class="icon featured-icon icon-play-circle"></span>
+									<h3>Jugá</h3>
+									<p>Si, jugando, haciendo misiones, es posible dar pasos muy chicos para expandir este movimiento.</p>
+								</section>
+							</div>
+							<div class="4u">
+								<section class="box box-style1">
+									<span class="icon featured-icon icon-share"></span>
+									<h3>Compartí</h3>
+									<p>En facebook, twitter, google+ y hacé que el movimiento de vueltas por la internet.</p>
+								</section>
+							</div>
+						</div>
+            <div class="row">
+              <div class="4u">
+								<section class="box box-style1">
+									<span class="icon featured-icon icon-calendar"></span>
+									<h3>Organizá un encuentro</h3>
+									<p>Solo hacen falta personas interesadas y un lugar. Con el resto te ayudamos.</p>
+								</section>
+							</div>
+							<div class="4u">
+								<section class="box box-style1">
+									<span class="icon featured-icon icon-comments-alt"></span>
+									<h3>Facilitá</h3>
+									<p>Si querés practicar como es facilitar un espacio de colaboración y aprendizaje, esta actividad es una muy buena oportunidad para hacerlo.</p>
+								</section>
+							</div>
+              <div class="4u">
+								<section class="box box-style1">
+									<span class="icon featured-icon icon-camera"></span>
+									<h3>Vení a sacar fotos</h3>
+									<p>La próxima vez que hagamos la actividad.</p>
+								</section>
+							</div>
+            </div>
+            <div class="row">
+              <div class="4u">
+								<section class="box box-style1">
+									<span class="icon featured-icon icon-pencil"></span>
+									<h3>Escribí</h3>
+									<p>Así más personas se pueden enterar.</p>
+								</section>
+							</div>
+              <div class="4u">
+								<section class="box box-style1">
+									<span class="icon featured-icon icon-film"></span>
+									<h3>Hacé un video</h3>
+									<p>Puede ser una buena forma de comunicar</p>
+								</section>
+							</div>
+            </div>
+					</div>
+					<footer>
+						<p>Tenés otra idea?</p>
+						<a href="mailto:movimiento-rsu@googlegroups.com" class="button button-big">Por favor escribinos!</a>
+					</footer>
+				</article>
+			</div>
+
+		<!-- Contact -->
+			<div class="wrapper wrapper-style4">
+				<article id="contact">
+					<header>
+						<h2>Te interesa? Estemos en contacto!</h2>
+						<span>Suscribite al grupo donde vamos conversando sobre como hacer girar este movimiento.</span>
+					</header>
+					<div class="5grid">
+						<div class="row">
+							<div class="12u">
+								<a href="https://groups.google.com/d/forum/movimiento-rsu" class="button button-big" target="_blank">Ir al grupo</a>
+							</div>
+						</div>
+						<div class="row row-special">
+							<div class="12u">
+								<h3>GRACIAS!</h3>
+								<ul class="social">
+									<li class="twitter"><a href="http://twitter.com/n33co" class="icon icon-twitter"><span>Twitter</span></a></li>
+									<li class="facebook"><a href="#" class="icon icon-facebook"><span>Facebook</span></a></li>
+									<li class="googleplus"><a href="#" class="icon icon-google-plus"><span>Google+</span></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<footer>
+						<p id="copyright">
+							&copy; 2012 Untitled | Images: <a href="http://fotogrph.com">Fotogrph</a> | Design: <a href="http://html5up.net/">HTML5 UP</a>
+						</p>
+					</footer>
+				</article>
+			</div>
+
+
+	</body>
+</html>
